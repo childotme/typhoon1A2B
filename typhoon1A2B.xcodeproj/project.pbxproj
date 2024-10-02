@@ -1,0 +1,574 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		A312B67D2CAD9A9000523361 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A312B65E2CAD9A8E00523361 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A312B6652CAD9A8E00523361;
+			remoteInfo = typhoon1A2B;
+		};
+		A312B6872CAD9A9000523361 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A312B65E2CAD9A8E00523361 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A312B6652CAD9A8E00523361;
+			remoteInfo = typhoon1A2B;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		A312B6662CAD9A8E00523361 /* typhoon1A2B.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = typhoon1A2B.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A312B67C2CAD9A9000523361 /* typhoon1A2BTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = typhoon1A2BTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A312B6862CAD9A9000523361 /* typhoon1A2BUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = typhoon1A2BUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		A312B68E2CAD9A9000523361 /* Exceptions for "typhoon1A2B" folder in "typhoon1A2B" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = A312B6652CAD9A8E00523361 /* typhoon1A2B */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		A312B6682CAD9A8E00523361 /* typhoon1A2B */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				A312B68E2CAD9A9000523361 /* Exceptions for "typhoon1A2B" folder in "typhoon1A2B" target */,
+			);
+			path = typhoon1A2B;
+			sourceTree = "<group>";
+		};
+		A312B67F2CAD9A9000523361 /* typhoon1A2BTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = typhoon1A2BTests;
+			sourceTree = "<group>";
+		};
+		A312B6892CAD9A9000523361 /* typhoon1A2BUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = typhoon1A2BUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A312B6632CAD9A8E00523361 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A312B6792CAD9A9000523361 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A312B6832CAD9A9000523361 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A312B65D2CAD9A8E00523361 = {
+			isa = PBXGroup;
+			children = (
+				A312B6682CAD9A8E00523361 /* typhoon1A2B */,
+				A312B67F2CAD9A9000523361 /* typhoon1A2BTests */,
+				A312B6892CAD9A9000523361 /* typhoon1A2BUITests */,
+				A312B6672CAD9A8E00523361 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A312B6672CAD9A8E00523361 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A312B6662CAD9A8E00523361 /* typhoon1A2B.app */,
+				A312B67C2CAD9A9000523361 /* typhoon1A2BTests.xctest */,
+				A312B6862CAD9A9000523361 /* typhoon1A2BUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A312B6652CAD9A8E00523361 /* typhoon1A2B */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A312B68F2CAD9A9000523361 /* Build configuration list for PBXNativeTarget "typhoon1A2B" */;
+			buildPhases = (
+				A312B6622CAD9A8E00523361 /* Sources */,
+				A312B6632CAD9A8E00523361 /* Frameworks */,
+				A312B6642CAD9A8E00523361 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				A312B6682CAD9A8E00523361 /* typhoon1A2B */,
+			);
+			name = typhoon1A2B;
+			packageProductDependencies = (
+			);
+			productName = typhoon1A2B;
+			productReference = A312B6662CAD9A8E00523361 /* typhoon1A2B.app */;
+			productType = "com.apple.product-type.application";
+		};
+		A312B67B2CAD9A9000523361 /* typhoon1A2BTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A312B6942CAD9A9000523361 /* Build configuration list for PBXNativeTarget "typhoon1A2BTests" */;
+			buildPhases = (
+				A312B6782CAD9A9000523361 /* Sources */,
+				A312B6792CAD9A9000523361 /* Frameworks */,
+				A312B67A2CAD9A9000523361 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A312B67E2CAD9A9000523361 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				A312B67F2CAD9A9000523361 /* typhoon1A2BTests */,
+			);
+			name = typhoon1A2BTests;
+			packageProductDependencies = (
+			);
+			productName = typhoon1A2BTests;
+			productReference = A312B67C2CAD9A9000523361 /* typhoon1A2BTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		A312B6852CAD9A9000523361 /* typhoon1A2BUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A312B6972CAD9A9000523361 /* Build configuration list for PBXNativeTarget "typhoon1A2BUITests" */;
+			buildPhases = (
+				A312B6822CAD9A9000523361 /* Sources */,
+				A312B6832CAD9A9000523361 /* Frameworks */,
+				A312B6842CAD9A9000523361 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A312B6882CAD9A9000523361 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				A312B6892CAD9A9000523361 /* typhoon1A2BUITests */,
+			);
+			name = typhoon1A2BUITests;
+			packageProductDependencies = (
+			);
+			productName = typhoon1A2BUITests;
+			productReference = A312B6862CAD9A9000523361 /* typhoon1A2BUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A312B65E2CAD9A8E00523361 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					A312B6652CAD9A8E00523361 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					A312B67B2CAD9A9000523361 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = A312B6652CAD9A8E00523361;
+					};
+					A312B6852CAD9A9000523361 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = A312B6652CAD9A8E00523361;
+					};
+				};
+			};
+			buildConfigurationList = A312B6612CAD9A8E00523361 /* Build configuration list for PBXProject "typhoon1A2B" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A312B65D2CAD9A8E00523361;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = A312B6672CAD9A8E00523361 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A312B6652CAD9A8E00523361 /* typhoon1A2B */,
+				A312B67B2CAD9A9000523361 /* typhoon1A2BTests */,
+				A312B6852CAD9A9000523361 /* typhoon1A2BUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A312B6642CAD9A8E00523361 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A312B67A2CAD9A9000523361 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A312B6842CAD9A9000523361 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A312B6622CAD9A8E00523361 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A312B6782CAD9A9000523361 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A312B6822CAD9A9000523361 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		A312B67E2CAD9A9000523361 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A312B6652CAD9A8E00523361 /* typhoon1A2B */;
+			targetProxy = A312B67D2CAD9A9000523361 /* PBXContainerItemProxy */;
+		};
+		A312B6882CAD9A9000523361 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A312B6652CAD9A8E00523361 /* typhoon1A2B */;
+			targetProxy = A312B6872CAD9A9000523361 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		A312B6902CAD9A9000523361 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 7WFK3U35V6;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = typhoon1A2B/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = niki.typhoon1A2B;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A312B6912CAD9A9000523361 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 7WFK3U35V6;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = typhoon1A2B/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = niki.typhoon1A2B;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		A312B6922CAD9A9000523361 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A312B6932CAD9A9000523361 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A312B6952CAD9A9000523361 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 7WFK3U35V6;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = niki.typhoon1A2BTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/typhoon1A2B.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/typhoon1A2B";
+			};
+			name = Debug;
+		};
+		A312B6962CAD9A9000523361 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 7WFK3U35V6;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = niki.typhoon1A2BTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/typhoon1A2B.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/typhoon1A2B";
+			};
+			name = Release;
+		};
+		A312B6982CAD9A9000523361 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 7WFK3U35V6;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = niki.typhoon1A2BUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = typhoon1A2B;
+			};
+			name = Debug;
+		};
+		A312B6992CAD9A9000523361 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 7WFK3U35V6;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = niki.typhoon1A2BUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = typhoon1A2B;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A312B6612CAD9A8E00523361 /* Build configuration list for PBXProject "typhoon1A2B" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A312B6922CAD9A9000523361 /* Debug */,
+				A312B6932CAD9A9000523361 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A312B68F2CAD9A9000523361 /* Build configuration list for PBXNativeTarget "typhoon1A2B" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A312B6902CAD9A9000523361 /* Debug */,
+				A312B6912CAD9A9000523361 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A312B6942CAD9A9000523361 /* Build configuration list for PBXNativeTarget "typhoon1A2BTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A312B6952CAD9A9000523361 /* Debug */,
+				A312B6962CAD9A9000523361 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A312B6972CAD9A9000523361 /* Build configuration list for PBXNativeTarget "typhoon1A2BUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A312B6982CAD9A9000523361 /* Debug */,
+				A312B6992CAD9A9000523361 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A312B65E2CAD9A8E00523361 /* Project object */;
+}
